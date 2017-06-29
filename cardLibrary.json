@@ -1,0 +1,24 @@
+[
+    {
+        "type": "basic",
+        "front": "Who was the first President of the USA?",
+        "back": "George Washington"
+    },
+    {
+        "type": "cloze",
+        "partial": "...was the first President of the USA?",
+        "cloze": "George Washington",
+        "fullText": "George Washington was the first President of the USA?"
+    },
+    {
+       "type": "basic",
+        "front": "Name for the American colonists who wanted independence from Britain.",
+        "back": "Patriots"
+    },
+    {
+        "type": "cloze",
+        "partial": "...was the name of the American colonists who wanted independence from Britain.",
+        "cloze": "Patriots",
+        "fullText": "Patriots was the name of the American colonists who wanted independence from Britain."
+    }
+]
